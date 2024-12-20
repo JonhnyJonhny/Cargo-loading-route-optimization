@@ -1,0 +1,3 @@
+to run the code, open and run the gui.py file
+the main.py is where the cargo optimization algorithm is
+the map.py is where the route optimization is, to choose destination and starting location change start_city and target_city
